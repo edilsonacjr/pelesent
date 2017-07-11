@@ -12,11 +12,9 @@ This code has the following dependencies:
 - Gensim
 - Scikit-learn
 
-
-
 ## References
 
-Please cite [1](#pelesent:-cross-domain-polarity-classification-using-distant-supervision) if using this code.
+Please cite [1](#pelesent-cross-domain-polarity-classification-using-distant-supervision) if using this code.
 
 ### PELESent: Cross-domain polarity classification using distant supervision
 
