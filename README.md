@@ -1,6 +1,6 @@
 # PELESent
 ---
-
+PELESent is a library for polarity classification using distant supervision. The library is composed of different learning algorithms ranging from traditional machine learning techniques and representations to state-of-the-art deep learning architectures. The library also has a crawler for twitter along with preprocessing methods.
 
 ### Dependencies/Requirements
 
