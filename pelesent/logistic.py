@@ -72,3 +72,9 @@ class LogisticRegressionTfidf:
 
     def predict_prob(self, X):
         return self.model.predict_proba(X)
+
+    def save_model(self, filename):
+        pass
+
+    def load_model(self, filename):
+        pass
