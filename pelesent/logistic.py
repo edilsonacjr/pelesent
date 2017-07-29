@@ -23,7 +23,6 @@ class TfidfEmbeddingVectorizer(TransformerMixin):
 
     def fit(self, X, y=None, **fit_params):
         tfidf = TfidfVectorizer(encoding='utf-8')
-        # print(X[5])
         tfidf.fit(X)
         self.max_idf = max(tfidf.idf_)
         self.word2weight = defaultdict(int, [(w, tfidf.idf_[i]) for w, i in tfidf.vocabulary_.items()])
