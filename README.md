@@ -26,7 +26,7 @@ Please cite [1](#pelesent-cross-domain-polarity-classification-using-distant-sup
 @article{correa2017pelesent,
   title={PELESent: Cross-domain polarity classification using distant supervision},
   author={Corr{\^e}a Jr, Edilson A and Marinho, Vanessa Queiroz and Santos, Leandro Borges dos and Bertaglia, Thales F C and Treviso, Marcos V and Brum, Henrico B}},
-  journal={arXiv preprint arXiv:1707.02657},
+  journal={6th Brazilian Conference on Intelligent Systems (BRACIS)},
   year={2017}
 }
 ```
